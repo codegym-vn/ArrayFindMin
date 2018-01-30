@@ -1,0 +1,5 @@
+D:\CodeGYM\Example\8.5\ArrayFindMin\ArrayFindMin\bin\Debug\ArrayFindMin.exe.config
+D:\CodeGYM\Example\8.5\ArrayFindMin\ArrayFindMin\bin\Debug\ArrayFindMin.exe
+D:\CodeGYM\Example\8.5\ArrayFindMin\ArrayFindMin\bin\Debug\ArrayFindMin.pdb
+D:\CodeGYM\Example\8.5\ArrayFindMin\ArrayFindMin\obj\Debug\ArrayFindMin.exe
+D:\CodeGYM\Example\8.5\ArrayFindMin\ArrayFindMin\obj\Debug\ArrayFindMin.pdb
